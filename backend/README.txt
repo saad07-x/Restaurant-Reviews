@@ -1,0 +1,1 @@
+In package.json added:  "type": "module",
